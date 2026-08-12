@@ -1,0 +1,20 @@
+# LabVIEW packaged libraries
+*.lvlibp
+*.llb
+
+# Shared libraries
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+
+# LabVIEW local metadata and cache
+*.aliases
+*.lvlps
+.cache/
+
+# Project runtime temporary files
+temp/
