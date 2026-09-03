@@ -29,6 +29,7 @@
 					<Item Name="LTE Call Process Param.ctl" Type="VI" URL="../Instrument Manager/Type Definition/LTE Call Process Param.ctl"/>
 					<Item Name="NR Call Handover Param.ctl" Type="VI" URL="../Instrument Manager/Type Definition/NR Call Handover Param.ctl"/>
 					<Item Name="NR Call Process Param.ctl" Type="VI" URL="../Instrument Manager/Type Definition/NR Call Process Param.ctl"/>
+					<Item Name="NSA Call Handover Param.ctl" Type="VI" URL="../Instrument Manager/Type Definition/NSA Call Handover Param.ctl"/>
 					<Item Name="SA Level Param.ctl" Type="VI" URL="../Instrument Manager/Type Definition/SA Level Param.ctl"/>
 					<Item Name="SA Range Param.ctl" Type="VI" URL="../Instrument Manager/Type Definition/SA Range Param.ctl"/>
 				</Item>

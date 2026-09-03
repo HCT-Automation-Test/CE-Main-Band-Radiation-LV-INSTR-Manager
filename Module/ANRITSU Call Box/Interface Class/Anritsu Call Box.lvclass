@@ -355,6 +355,15 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 	</Item>
+	<Item Name="Recall Param.vi" Type="VI" URL="../Method/Recall Param.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;R!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!&amp;"!=!!?!!!R&amp;E&amp;/5EF55V5A1W&amp;M&lt;#"#&lt;XAO&lt;(:M;7)917ZS;82T&gt;3"$97RM)%*P?#ZM&gt;G.M98.T!"6"&lt;H*J&gt;(.V)%.B&lt;'QA1G^Y)-0CN])!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!51$$`````#V*F9W&amp;M&lt;#"/97VF!&amp;"!=!!?!!!R&amp;E&amp;/5EF55V5A1W&amp;M&lt;#"#&lt;XAO&lt;(:M;7)917ZS;82T&gt;3"$97RM)%*P?#ZM&gt;G.M98.T!"6"&lt;H*J&gt;(.V)%.B&lt;'QA1G^Y)-$5N])!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!(!!A#!!"Y!!!.#!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!##!!!!*!!!!!!!1!*!!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">1073741824</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1115685376</Property>
+	</Item>
 	<Item Name="select LTE Device for 8000A.vi" Type="VI" URL="../Method/select LTE Device for 8000A.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;&lt;!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!&amp;"!=!!?!!!R&amp;E&amp;/5EF55V5A1W&amp;M&lt;#"#&lt;XAO&lt;(:M;7)917ZS;82T&gt;3"$97RM)%*P?#ZM&gt;G.M98.T!"2"&lt;H*J&gt;(.V)%.B&lt;'QA1G^Y)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1"/1(!!(A!!-2:"4F**6&amp;.6)%.B&lt;'QA1G^Y,GRW&lt;'FC'%&amp;O=GFU=X5A1W&amp;M&lt;#"#&lt;XAO&lt;(:D&lt;'&amp;T=Q!417ZS;82T&gt;3"$97RM)%*P?#"J&lt;A"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!1!"Q)!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!E!!!!!!"!!A!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
