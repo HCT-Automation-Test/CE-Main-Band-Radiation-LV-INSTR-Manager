@@ -382,4 +382,13 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 	</Item>
+	<Item Name="set VISA Timeout.vi" Type="VI" URL="../set VISA Timeout.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;Q!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!&amp;"!=!!?!!!R&amp;E&amp;/5EF55V5A1W&amp;M&lt;#"#&lt;XAO&lt;(:M;7)917ZS;82T&gt;3"$97RM)%*P?#ZM&gt;G.M98.T!"6"&lt;H*J&gt;(.V)%.B&lt;'QA1G^Y)-0CN])!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!41!=!$62J&lt;76P&gt;81A6G&amp;M&gt;75!5%"Q!"Y!!$%715Z3362463"$97RM)%*P?#ZM&gt;GRJ9BB"&lt;H*J&gt;(.V)%.B&lt;'QA1G^Y,GRW9WRB=X-!&amp;5&amp;O=GFU=X5A1W&amp;M&lt;#"#&lt;XAAQ.3XQA"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!=!#!)!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!)!!!!E!!!!!!"!!E!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
+	</Item>
 </LVClass>
