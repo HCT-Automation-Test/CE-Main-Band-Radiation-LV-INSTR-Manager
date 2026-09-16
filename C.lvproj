@@ -21,6 +21,7 @@
 		<Item Name="Src" Type="Folder">
 			<Item Name="Instrument Manager" Type="Folder">
 				<Item Name="Type Definition" Type="Folder">
+					<Property Name="NI.SortType" Type="Int">3</Property>
 					<Item Name="Legacy" Type="Folder">
 						<Item Name="LTE Handover Param.ctl" Type="VI" URL="../Instrument Manager/Type Definition/LTE Handover Param.ctl"/>
 						<Item Name="NR Handover Param.ctl" Type="VI" URL="../Instrument Manager/Type Definition/NR Handover Param.ctl"/>
@@ -29,9 +30,11 @@
 					<Item Name="LTE Call Process Param.ctl" Type="VI" URL="../Instrument Manager/Type Definition/LTE Call Process Param.ctl"/>
 					<Item Name="NR Call Handover Param.ctl" Type="VI" URL="../Instrument Manager/Type Definition/NR Call Handover Param.ctl"/>
 					<Item Name="NR Call Process Param.ctl" Type="VI" URL="../Instrument Manager/Type Definition/NR Call Process Param.ctl"/>
+					<Item Name="NSA Call Process Param.ctl" Type="VI" URL="../Instrument Manager/Param Definition/NSA Call Process Param.ctl"/>
 					<Item Name="NSA Call Handover Param.ctl" Type="VI" URL="../Instrument Manager/Type Definition/NSA Call Handover Param.ctl"/>
 					<Item Name="SA Level Param.ctl" Type="VI" URL="../Instrument Manager/Type Definition/SA Level Param.ctl"/>
 					<Item Name="SA Range Param.ctl" Type="VI" URL="../Instrument Manager/Type Definition/SA Range Param.ctl"/>
+					<Item Name="SA Manual Param.ctl" Type="VI" URL="../Instrument Manager/Type Definition/SA Manual Param.ctl"/>
 				</Item>
 				<Item Name="Instrument Manager.lvclass" Type="LVClass" URL="../Instrument Manager/Instrument Manager.lvclass"/>
 			</Item>
@@ -73,7 +76,6 @@
 				<Property Name="App_INI_GUID" Type="Str">{137F3453-52D2-401A-BC72-B89F02134CAF}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
 				<Property Name="App_serverType" Type="Int">0</Property>
-				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{16F93330-7FFA-4700-97E4-D021508D207F}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">나의 어플리케이션</Property>
 				<Property Name="Bld_defaultLanguage" Type="Str">Korean</Property>
@@ -84,8 +86,9 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{5BBFBE2F-851C-4A12-A74B-2C50355C9DE4}</Property>
-				<Property Name="Bld_version.build" Type="Int">1</Property>
 				<Property Name="Bld_version.major" Type="Int">3</Property>
+				<Property Name="Bld_version.minor" Type="Int">1</Property>
+				<Property Name="Bld_version.patch" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">LV Inst Manager.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/나의 어플리케이션/LV Inst Manager.exe</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
@@ -93,7 +96,7 @@
 				<Property Name="Destination[1].destName" Type="Str">지원 디렉토리</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/나의 어플리케이션/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{AA7A86EA-769C-4385-BA9D-D9E29A55CE85}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{F48D71B1-7DAA-41C3-87D7-68A70D6F288C}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/내 컴퓨터/Src/Luanch.vi</Property>
