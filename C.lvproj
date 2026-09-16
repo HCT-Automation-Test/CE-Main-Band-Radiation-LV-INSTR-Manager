@@ -88,7 +88,7 @@
 				<Property Name="Bld_previewCacheID" Type="Str">{5BBFBE2F-851C-4A12-A74B-2C50355C9DE4}</Property>
 				<Property Name="Bld_version.major" Type="Int">3</Property>
 				<Property Name="Bld_version.minor" Type="Int">1</Property>
-				<Property Name="Bld_version.patch" Type="Int">1</Property>
+				<Property Name="Bld_version.patch" Type="Int">3</Property>
 				<Property Name="Destination[0].destName" Type="Str">LV Inst Manager.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/나의 어플리케이션/LV Inst Manager.exe</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
@@ -96,7 +96,7 @@
 				<Property Name="Destination[1].destName" Type="Str">지원 디렉토리</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/나의 어플리케이션/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{F48D71B1-7DAA-41C3-87D7-68A70D6F288C}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{7D9F2B63-988E-4621-803C-4BDF3A4D00C0}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/내 컴퓨터/Src/Luanch.vi</Property>
